@@ -7,7 +7,6 @@ Este é um projeto desenvolvido em **C#** com integração ao **SQL Server** e a
 - **C# (.NET Core)**: Desenvolvimento da aplicação principal.
 - **SQL Server**: Armazenamento e consulta de dados.
 - **Power BI**: Análise e visualização de dados.
-- **SAP HANA**: Extração de dados de sistemas corporativos.
 
 ## 🚧 Funcionalidades em Desenvolvimento
 
