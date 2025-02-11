@@ -1,4 +1,4 @@
-# 🚀 MeuProjetoCSharp
+# 🚀 SISCAD-Sistema-de-Cadastros
 
 Este é um projeto desenvolvido em **C#** com integração ao **SQL Server** e análise de dados utilizando **Power BI**.
 
