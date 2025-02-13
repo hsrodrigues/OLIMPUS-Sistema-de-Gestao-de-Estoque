@@ -24,8 +24,7 @@ Este é um projeto desenvolvido em **C#** com integração ao **SQL Server** e a
 
 ## 📦 Como Executar o Projeto
 
-1. Clone o repositório:
+1. Download do projeto Media Fire:
 
-   ```bash
-   git clone https://github.com/hsrodrigues01/SISCAD-Sistema-de-Cadastros.git
-   cd SISCAD-Sistema-de-Cadastros
+<a href="https://www.mediafire.com/file/2885hh7aklgk7sb/CONTROLE_DE_ESTOQUE.rar/file" download="Olimpus">Baixar Projeto Olimpus</a>
+
