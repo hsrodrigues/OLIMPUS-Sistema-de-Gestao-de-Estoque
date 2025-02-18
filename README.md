@@ -12,7 +12,7 @@ Este é um projeto desenvolvido em **C#** com integração ao **SQL Server** e a
 
 - [x] Conexão com banco de dados SQL Server
 - [x] CRUD completo para gerenciamento de dados
-- [ ] Integração com Power BI para visualização de relatórios
+- [x] Integração com Power BI para visualização de relatórios
 
 ## 📸 Demonstrações
 
